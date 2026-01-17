@@ -1,0 +1,5 @@
+{
+  "name": "RANDOMEFIX",
+  "description": "A high-performance, client-side toolkit for name generation, sequence management, and text processing. Zero dependencies on external APIs.",
+  "requestFramePermissions": []
+}
